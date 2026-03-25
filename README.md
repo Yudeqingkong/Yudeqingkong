@@ -21,11 +21,11 @@
 
 <div align="center">
 
-![Yudeqingkong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yudeqingkong&show_icons=true&theme=tokyonight&hide_border=true)
+![Yudeqingkong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yudeqingkong&show_icons=true&theme=rose_pine_dawn&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudeqingkong&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudeqingkong&layout=compact&theme=rose_pine_dawn&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Yudeqingkong&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yudeqingkong&theme=rose_pine_dawn&hide_border=true)
 
 </div>
 
